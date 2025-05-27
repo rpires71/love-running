@@ -19,6 +19,10 @@ header{
     background-color: lightcoral;
 }
 
+/* H1 */
+h1{
+    font-family: 'Oswald', sans-serif;
+}
 /* Main content */
 main{
     background-color: lightblue;
